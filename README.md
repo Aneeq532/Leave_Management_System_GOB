@@ -21,6 +21,30 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 
 **Here are some screen short of my project**
 
-https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S1.1.png
+**ADMIN DASHBOARD**
 
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S1.png)
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S1.1.png)
 
+**Employee List**
+
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S2.png)
+
+**Application List**
+
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S3.png)
+
+**Leave Type List**
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S4.png)
+
+**STAFF DASHBOARD**
+
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff1.png)
+
+**My Record**
+
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff2.png)
+
+**Application List**
+
+![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff3.png)
