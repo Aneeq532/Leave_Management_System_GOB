@@ -20,3 +20,7 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 6) Browse the Online Employee Leave Management System in a browser. i.e. http://localhost/leave_system.
 
 **Here are some screen short of my project**
+
+https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/S1.1.png
+
+
