@@ -41,10 +41,6 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 
 ![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff1.png)
 
-**My Record**
-
-![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff2.png)
-
 **Application List**
 
 ![Dashboard Screen Short](https://raw.githubusercontent.com/Aneeq532/Leave_Management_System_GOB/master/uploads/Staff3.png)
